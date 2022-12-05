@@ -7,7 +7,7 @@ vk = vk_api.VkApi(token="")
 
 # Telegram Info Main https://my.telegram.org/apps
 api_id = 000 # Ваш APP ID
-api_hash = "daskdsak3849"
+api_hash = ""
 app = Client("my_account", api_id=api_id, api_hash=api_hash)
 # Telegram Info END
 
